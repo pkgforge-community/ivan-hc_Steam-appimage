@@ -1,2 +1,2 @@
-https://github.com/pkgforge-community/ivan-hc_Steam-appimage/releases/download/20250407-062713-20250407T081848/Steam-1.0.0.82-2-anylinux.dwarfs-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Steam-appimage/releases/download/20250407-062713-20250407T081848/Steam-1.0.0.82-2-anylinux.squashfs-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Steam-appimage/releases/download/20250408-214209-20250409T005702/Steam-1.0.0.82-2-anylinux.dwarfs-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Steam-appimage/releases/download/20250408-214209-20250409T005702/Steam-1.0.0.82-2-anylinux.squashfs-x86_64.AppImage
