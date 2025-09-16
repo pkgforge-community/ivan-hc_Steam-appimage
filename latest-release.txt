@@ -1,1 +1,1 @@
-https://github.com/pkgforge-community/ivan-hc_Steam-appimage/releases/download/1.0.0.84-1%402025-09-10_1757491973-20250910T122406/Steam-1.0.0.84-1-anylinux-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Steam-appimage/releases/download/1.0.0.84-1%402025-09-15_1757917696-20250915T082027/Steam-1.0.0.84-1-anylinux-x86_64.AppImage
